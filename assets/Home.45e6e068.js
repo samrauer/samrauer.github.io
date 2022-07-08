@@ -1,0 +1,1 @@
+import{t}from"./index.3fef7e0f.js";const e=t('<div><h2 class="text-center text-4xl m-6 text-purple-600">Samuel Auerbach</h2><p class="text-center text-xl m-6 text-purple-500">Junior at the University of Michigan.</p></div>');function l(){return e.cloneNode(!0)}export{l as default};
